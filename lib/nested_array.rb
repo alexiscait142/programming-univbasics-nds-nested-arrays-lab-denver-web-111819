@@ -21,9 +21,6 @@ def assembled_matrix
 end
 
 def array_literal_matrix
-  # Using Array literal syntax only, build a nested array that uses the data in
-  # side the ENNET_HOUSE and ENFIELD_TENNIS_ACADEMY Arrays but sorts
-  # alphabetically by the first character.
   array = [
     assembled_matrix[0].sort,
     assembled_matrix[1].sort]
