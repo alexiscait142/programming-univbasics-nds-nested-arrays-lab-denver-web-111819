@@ -34,7 +34,6 @@ def assembled_matrix
       "Mario Incandenza",
       "Michael Pemulis"]
       ]
-    ]
 end
 
 def array_literal_matrix
